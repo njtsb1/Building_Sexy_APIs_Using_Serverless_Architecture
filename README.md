@@ -6,3 +6,5 @@ Project developed at Bootcamp SPTech Development Fullstack with instruction from
 Learning to develop an "APIs for Product Management using Node.js" project, practicing and applying the concepts of API development and Serverless Architecture with Node.js.
 
 [LICENSE](./LICENSE)
+
+See [Original Repository](https://github.com/IgorHalfeld/digital-innovation-one-demo).
